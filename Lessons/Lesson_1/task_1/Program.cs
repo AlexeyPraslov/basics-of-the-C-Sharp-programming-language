@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// первая программа приветствия мира!
+
 Console.WriteLine("Hello, World!");
