@@ -21,3 +21,5 @@ while(third != 0)
 }
 
 System.Console.WriteLine($"результат возведения в степень {pow}");
+
+
